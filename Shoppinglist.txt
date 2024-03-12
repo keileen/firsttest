@@ -2,3 +2,5 @@
 2 clothes
 3 shoes
 4 shampoo
+5 cucumbers
+6 beets
