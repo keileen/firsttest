@@ -1,3 +1,4 @@
 1 food
 2 clothes
 3 shoes
+4 shampoo
